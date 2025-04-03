@@ -16,4 +16,5 @@ UI Automation solution for bolttech's Car Insurance website using Selenium, Cucu
 
 ## Running Tests
 
-Execute tests using:
+Execute tests using: mvn test
+
